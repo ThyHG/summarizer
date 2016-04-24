@@ -1,0 +1,19 @@
+#ab-action-bar{
+	position:absolute;
+	z-index:999;
+	background-color:rgba(0,0,0,0.9);
+	border-radius:5px;
+	transition: all 0.2s ease;
+	-moz-transition: all 0.2s ease;
+	-webkit-transition: all 0.2s ease;
+
+}
+
+#ab-action-bar > div {
+	width:2em;
+	height:2em;
+	margin:0.4ex;
+	background-color:white;
+	display:inline-block;
+	border-radius:25%;
+}

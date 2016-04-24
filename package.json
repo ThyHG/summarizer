@@ -1,0 +1,16 @@
+{
+  "title": "Summarizer",
+  "name": "summarizer",
+  "version": "0.0.1",
+  "description": "Summarizes text by selecting",
+  "main": "index.js",
+  "author": "Jon Spruyt",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jetpack"
+  ]
+}
